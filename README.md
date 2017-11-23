@@ -27,11 +27,11 @@ The tool comprises of a PowerShell Script and an XSL Stylesheet. You will also f
 
 For additional details on running the tool and usage, please refer to this nice [blog](https://blogs.technet.microsoft.com/brookswhite/2014/04/02/sps-farm-report/) written by Brooks White - Senior SharePoint PFE at Microsoft. *Follow the comments on that blog for FAQs*.
 
-## Credits 
+## Getting Started 
 My sincere thanks to all the testers in Microsoft Support who've enabled the release of this tool. Special thanks to the below people:
 
-+ __Ajith Jose__, *Support Escalation Engieer* from the *Microsoft Project Support team*. He coauthored and contributed code to gathering Project Server details.
++ __Ajith Jose__, *Support Escalation Engieer from the Microsoft Project Support team*. He coauthored and contributed code to gathering Project Server details.
 + __David Storey__, *Program Manager* from the *Microsoft Edge product team*. He contributed stylsheet code that'll open the report in Edge.
 + __Nirankush Panchbai__, *Principal Program Manager Lead* from the *Microsoft Edge product team*. He came first to help me when I was struggling to get the <details / summary> tag to work in Edge.
 
-- J Vijay William
+--  J Vijay William
